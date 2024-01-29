@@ -1,0 +1,21 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["hello", "Hi", "good day"],
+    "responses": ["hello", "Hi", "What can I do for you?"]
+  },
+
+  {"tag":  "name",
+  "patterns": ["What is your name?", "May I know your name?", "Who you are"],
+  "responses": ["My name is Alalin", "I am Alalin", "Your can call me Alalin"]
+
+  },
+
+  {"tag":  " goodbye",
+  "patterns":  ["Bye", "Goodbye", "Have a nice day"],
+  "responses": ["Bye", "See you", "Goodbye", "Please! Don't leave me"]
+
+  }
+
+
+
+]}
